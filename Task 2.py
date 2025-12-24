@@ -1,4 +1,4 @@
 a = 12
 b = 18
-result = a + b
+result = a - b
 print("The result is:", result)
