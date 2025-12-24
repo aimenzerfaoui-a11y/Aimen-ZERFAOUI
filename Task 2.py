@@ -1,6 +1,4 @@
-def adding(a, b):
-    return a - b
-x = 13
-y = 7
-sum_result = adding(x, y)
-print("The sum is:", sum_result)
+a = 12
+b = 18
+result = a - b
+print("The result is:", result)
